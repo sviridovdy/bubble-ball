@@ -1,0 +1,15 @@
+{
+  "name": "bubble-ball",
+  "version": "1.0.0",
+  "description": "Get you a spot for outdoor volleyball",
+  "main": "index.js",
+  "scripts": {
+    "open": "cypress open",
+    "run": "cypress run"
+  },
+  "author": "Dmytro Sviridov",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.11.0"
+  }
+}
